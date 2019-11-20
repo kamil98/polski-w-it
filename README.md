@@ -95,6 +95,7 @@ Znaczy [pull requestów](https://github.com/nurkiewicz/polski-w-it/pulls), nie t
 | response             |                     | odpowiedź                             |
 | review               | rewiułować          | przejrzeć                             |
 | rollback             |                     | wycofać, przywrócić                   |
+| router               |                     | trasownik                             |
 | rule (_n_)           | rulka               | reguła                                |
 | sample               |                     | próbka, przykład                      |
 | save                 | (za)sejwować        | zapisać                               |
